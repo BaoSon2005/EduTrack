@@ -7,6 +7,8 @@
     "dev": "vite",
     "build": "vite build",
     "lint": "eslint .",
+    "may-chu": "node may_chu/may_chu.js",
+    "kiem-tra-may-chu": "node --test may_chu/kiem_tra_may_chu.js",
     "preview": "vite preview"
   },
   "dependencies": {
